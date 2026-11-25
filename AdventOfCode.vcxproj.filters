@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files"><UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier><Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions></Filter>
+    <Filter Include="Header Files"><UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier><Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions></Filter>
+    <Filter Include="Resource Files"><UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier><Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions></Filter>
+    <Filter Include="Source Files\day1"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000002}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day2"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000003}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day3"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000004}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day4"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000005}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day5"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000006}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day6"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000007}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day7"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000008}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day8"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000009}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day9"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000010}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day10"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000011}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day11"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000012}</UniqueIdentifier></Filter>
+    <Filter Include="Source Files\day12"><UniqueIdentifier>{A0F4A1E1-9E8F-4C44-9C0D-000000000013}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day1"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000002}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day2"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000003}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day3"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000004}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day4"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000005}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day5"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000006}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day6"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000007}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day7"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000008}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day8"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000009}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day9"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000010}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day10"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000011}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day11"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000012}</UniqueIdentifier></Filter>
+    <Filter Include="Header Files\day12"><UniqueIdentifier>{B0F4A1E1-9E8F-4C44-9C0D-000000000013}</UniqueIdentifier></Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="source/main.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="source/utils.cpp"><Filter>Source Files</Filter></ClCompile>
+    <ClCompile Include="source/day1/C1.cpp"><Filter>Source Files\day1</Filter></ClCompile>
+    <ClCompile Include="source/day1/C2.cpp"><Filter>Source Files\day1</Filter></ClCompile>
+    <ClCompile Include="source/day2/C1.cpp"><Filter>Source Files\day2</Filter></ClCompile>
+    <ClCompile Include="source/day2/C2.cpp"><Filter>Source Files\day2</Filter></ClCompile>
+    <ClCompile Include="source/day3/C1.cpp"><Filter>Source Files\day3</Filter></ClCompile>
+    <ClCompile Include="source/day3/C2.cpp"><Filter>Source Files\day3</Filter></ClCompile>
+    <ClCompile Include="source/day4/C1.cpp"><Filter>Source Files\day4</Filter></ClCompile>
+    <ClCompile Include="source/day4/C2.cpp"><Filter>Source Files\day4</Filter></ClCompile>
+    <ClCompile Include="source/day5/C1.cpp"><Filter>Source Files\day5</Filter></ClCompile>
+    <ClCompile Include="source/day5/C2.cpp"><Filter>Source Files\day5</Filter></ClCompile>
+    <ClCompile Include="source/day6/C1.cpp"><Filter>Source Files\day6</Filter></ClCompile>
+    <ClCompile Include="source/day6/C2.cpp"><Filter>Source Files\day6</Filter></ClCompile>
+    <ClCompile Include="source/day7/C1.cpp"><Filter>Source Files\day7</Filter></ClCompile>
+    <ClCompile Include="source/day7/C2.cpp"><Filter>Source Files\day7</Filter></ClCompile>
+    <ClCompile Include="source/day8/C1.cpp"><Filter>Source Files\day8</Filter></ClCompile>
+    <ClCompile Include="source/day8/C2.cpp"><Filter>Source Files\day8</Filter></ClCompile>
+    <ClCompile Include="source/day9/C1.cpp"><Filter>Source Files\day9</Filter></ClCompile>
+    <ClCompile Include="source/day9/C2.cpp"><Filter>Source Files\day9</Filter></ClCompile>
+    <ClCompile Include="source/day10/C1.cpp"><Filter>Source Files\day10</Filter></ClCompile>
+    <ClCompile Include="source/day10/C2.cpp"><Filter>Source Files\day10</Filter></ClCompile>
+    <ClCompile Include="source/day11/C1.cpp"><Filter>Source Files\day11</Filter></ClCompile>
+    <ClCompile Include="source/day11/C2.cpp"><Filter>Source Files\day11</Filter></ClCompile>
+    <ClCompile Include="source/day12/C1.cpp"><Filter>Source Files\day12</Filter></ClCompile>
+    <ClCompile Include="source/day12/C2.cpp"><Filter>Source Files\day12</Filter></ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="source/Challenge.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="source/utils.h"><Filter>Header Files</Filter></ClInclude>
+    <ClInclude Include="source/day1/C1.h"><Filter>Header Files\day1</Filter></ClInclude>
+    <ClInclude Include="source/day1/C2.h"><Filter>Header Files\day1</Filter></ClInclude>
+    <ClInclude Include="source/day2/C1.h"><Filter>Header Files\day2</Filter></ClInclude>
+    <ClInclude Include="source/day2/C2.h"><Filter>Header Files\day2</Filter></ClInclude>
+    <ClInclude Include="source/day3/C1.h"><Filter>Header Files\day3</Filter></ClInclude>
+    <ClInclude Include="source/day3/C2.h"><Filter>Header Files\day3</Filter></ClInclude>
+    <ClInclude Include="source/day4/C1.h"><Filter>Header Files\day4</Filter></ClInclude>
+    <ClInclude Include="source/day4/C2.h"><Filter>Header Files\day4</Filter></ClInclude>
+    <ClInclude Include="source/day5/C1.h"><Filter>Header Files\day5</Filter></ClInclude>
+    <ClInclude Include="source/day5/C2.h"><Filter>Header Files\day5</Filter></ClInclude>
+    <ClInclude Include="source/day6/C1.h"><Filter>Header Files\day6</Filter></ClInclude>
+    <ClInclude Include="source/day6/C2.h"><Filter>Header Files\day6</Filter></ClInclude>
+    <ClInclude Include="source/day7/C1.h"><Filter>Header Files\day7</Filter></ClInclude>
+    <ClInclude Include="source/day7/C2.h"><Filter>Header Files\day7</Filter></ClInclude>
+    <ClInclude Include="source/day8/C1.h"><Filter>Header Files\day8</Filter></ClInclude>
+    <ClInclude Include="source/day8/C2.h"><Filter>Header Files\day8</Filter></ClInclude>
+    <ClInclude Include="source/day9/C1.h"><Filter>Header Files\day9</Filter></ClInclude>
+    <ClInclude Include="source/day9/C2.h"><Filter>Header Files\day9</Filter></ClInclude>
+    <ClInclude Include="source/day10/C1.h"><Filter>Header Files\day10</Filter></ClInclude>
+    <ClInclude Include="source/day10/C2.h"><Filter>Header Files\day10</Filter></ClInclude>
+    <ClInclude Include="source/day11/C1.h"><Filter>Header Files\day11</Filter></ClInclude>
+    <ClInclude Include="source/day11/C2.h"><Filter>Header Files\day11</Filter></ClInclude>
+    <ClInclude Include="source/day12/C1.h"><Filter>Header Files\day12</Filter></ClInclude>
+    <ClInclude Include="source/day12/C2.h"><Filter>Header Files\day12</Filter></ClInclude>
+  </ItemGroup>
+</Project>
